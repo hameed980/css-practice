@@ -1,15 +1,4 @@
-/* .main{
-    width: 50%;
+.main{
+    width: 100%;
     background-color: green;
-    height: 100vh;
-} */
-
-
- /* LIMITING WIDTH LAGANE KE LIYE  */
-/* .main1{
-    min-width: 315px;
-    max-width: 500px;
 }
-.main1 > img{
-     width: 100%;
-} */
