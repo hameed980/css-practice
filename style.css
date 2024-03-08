@@ -10,3 +10,9 @@
     background-color: aqua;
     overflow: scroll;
 } */
+.main{
+    width: 100%;
+}
+.main>img{
+    width: 50%;
+}
